@@ -1,0 +1,4 @@
+kia pegas auto blue 250 1400 2020 240000 
+kia reo auto black 250 1600 2019 270000 
+kia sportage auto black 300 1600 2019 425000 
+kia carens auto brown 300 1600 2019 460000 

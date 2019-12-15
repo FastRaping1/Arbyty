@@ -1,0 +1,5 @@
+bmw x6 auto black 450 4000 2020 1500000 
+kia reo auto red 250 1600 2019 270000 
+chevorlet optra auto red 200 1500 2020 210000 
+hyundai verna manual silver 85 1600 2019 190000 
+hyundai accent auto red 100 1600 2019 260000 
